@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%B0E0E6&center=true&vCenter=true&lines=Hey%2C+I'm+Mariana+Siano!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%FF00FF&center=true&vCenter=true&lines=Hey%2C+I'm+Mariana+Siano!" alt="Typing SVG">
 </div>
 
 <p align="center"><em>Computer Science Student at <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora (UFJF)</a>
