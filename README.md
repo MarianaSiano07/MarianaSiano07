@@ -20,11 +20,18 @@
  <a href="https://github.com/MarianaSiano07/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=tokyonight" alt="Mariana Siano"/>
  </a>
+  
+  <br>
+  <br>
+  
+  <a href="https://github.com/MarianaSiano07" alt="Git Graph">
+    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano07&theme=dracula" />
+  </a>
 </p>
 
 <h2>Contact:</h2>
 <div>
-  <a href = "mailto:mariana.siano.maryh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:mariana.siano@codejr.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 <br>
