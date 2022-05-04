@@ -9,26 +9,29 @@
   <a href="https://github.com/MarianaSiano07/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano07&count_private=true&show_icons=true&theme=tokyonight" width="438px" />
   </a>
+ 
 
   <a href="https://github.com/MarianaSiano07/github-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSiano07&layout=compact&theme=tokyonight" height="180px"/>
   </a>
+ <p>
  
  <br>
- <br>
  
- <a href="https://github.com/MarianaSiano07/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=tokyonight" alt="Mariana Siano"/>
- </a>
-  
+  <p align="center">
+   <a href="https://github.com/MarianaSiano07/github-readme-stats">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=tokyonight" alt="Mariana Siano"/>
+   </a>
+ <p>
+   
   <br>
-  <br>
   
+ <p align="center">
   <a href="https://github.com/MarianaSiano07" alt="Git Graph">
-    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano07&theme=dracula" />
+    <img align="center" height="250em" width="auto" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano07&theme=dracula" />
   </a>
-</p>
-
+ </p>
+ 
 <h2>Contact:</h2>
 <div>
   <a href = "mailto:mariana.siano@codejr.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
