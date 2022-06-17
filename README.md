@@ -25,6 +25,14 @@
  <p>
 
 <br>
+   
+   <p align="center">
+  <a href="https://github.com/MarianaSiano07" alt="Git Graph">
+    <img align="center" height="250em" width="auto" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano07&theme=dracula" />
+  </a>
+ </p>
+ 
+ <br>
 
 ##
 
