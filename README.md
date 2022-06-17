@@ -23,14 +23,6 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=tokyonight" alt="Mariana Siano"/>
    </a>
  <p>
-   
-  <br>
-  
- <p align="center">
-  <a href="https://github.com/MarianaSiano07" alt="Git Graph">
-    <img align="center" height="250em" width="auto" src="https://activity-graph.herokuapp.com/graph?username=MarianaSiano07&theme=dracula" />
-  </a>
- </p>
 
 <br>
 
