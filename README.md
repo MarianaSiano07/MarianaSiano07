@@ -7,6 +7,23 @@
   <em>Working at  <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a></em>
 </em></p>
 
+<br>
+
+##
+
+<br>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
+
+<br>
+
+##
+
  <p align="center">
   <a href="https://github.com/MarianaSiano07/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianaSiano07&count_private=true&show_icons=true&theme=radical" width="438px" />
@@ -27,7 +44,7 @@
  <p>
 
 <br>
-   
+
 <p align="center">
   
   <a href="https://github.com/MarianaSiano07" alt="Git Graph">
@@ -37,19 +54,6 @@
 </p>
  
  <br>
-
-##
-
-<br>
-  
-<div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
-<br>
 
 ##
 
