@@ -22,7 +22,7 @@
  
   <p align="center">
    <a href="https://github.com/MarianaSiano07/github-readme-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=radical" alt="Mariana Siano"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaSiano07&theme=dracula" alt="Mariana Siano"/>
    </a>
  <p>
 
